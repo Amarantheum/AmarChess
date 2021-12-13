@@ -1,0 +1,13 @@
+[package]
+name = "amar_chess"
+version = "0.1.0"
+authors = ["Amarantheum <kougharagua@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chess = "3.2.0"
+fltk = "^1"
+lazy_static = "^1"
+rayon = "1.5"
